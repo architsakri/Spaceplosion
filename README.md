@@ -1,2 +1,2 @@
 # Spaceplosion
-Created with CodeSandbox
+A fun space game
