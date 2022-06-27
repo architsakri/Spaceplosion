@@ -1,13 +1,8 @@
 {
-  "name": "space-game",
+  "name": "spaceplosion",
   "version": "1.0.0",
-  "description": "A small demo that shows how to manage game entities.",
-  "keywords": [
-    "zustand",
-    "physics",
-    "game",
-    "drei"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@react-three/fiber": "6.0.15",
